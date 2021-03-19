@@ -1,0 +1,14 @@
+query {
+  searchPersons(term:"Ve") {
+    id
+    name
+  }
+}
+
+
+query {
+  persons {
+    id
+    name
+  }
+}
