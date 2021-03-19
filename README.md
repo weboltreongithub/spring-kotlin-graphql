@@ -10,6 +10,12 @@ Started from Spring Initializr.
 
 ![Installation](docs/springinitalizr.png)
 
+### Plugin
+
+IntelliJ has a plugin to work with GraphQL.
+
+![Installation](docs/plugin.png)
+
 ### Voyager
 
 You can also see Voyager installed 
